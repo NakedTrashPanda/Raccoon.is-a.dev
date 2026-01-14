@@ -65,25 +65,26 @@ const tools: SkillGroup = {
     'Trello',
     'Ubuntu',
     'Visual Studio Code',
+    'Neovim',
   ],
 };
 
 const clouds: SkillGroup = {
   title: '☁️ Clouds and Providers',
   skills: [
-    'Atlas',
+    //'Atlas',
     'AWS',
     'Cloudflare',
-    'Cloudflare Workers',
+    //'Cloudflare Workers',
     'GitHub',
     'GitHub Pages',
-    'MariaDB',
-    'MongoDB',
-    'MySQL',
+    //'MariaDB',
+   // 'MongoDB',
+    //'MySQL',
     'OVH',
-    'Railway',
-    'Redis',
-    'Vercel',
+    //'Railway',
+    //'Redis',
+    //'Vercel',
   ],
 };
 

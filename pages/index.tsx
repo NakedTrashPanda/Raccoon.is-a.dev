@@ -30,16 +30,16 @@ export default function Home() {
     >
       {/* Avatar */}
       <Image
-        alt="Sammwy's GitHub avatar"
-        src={'https://avatars.githubusercontent.com/u/44925968?v=4'}
+        alt="Raccoons's GitHub avatar"
+        src={'https://avatars.githubusercontent.com/u/29274375?v=4'}
         borderRadius={'50%'}
         width={'10vw'}
       />
 
       {/* Greetings */}
-      <Heading size={isSmall ? '2xl' : '4xl'}>Howdy! I&apos;m /Sammwy/</Heading>
+      <Heading size={isSmall ? '2xl' : '4xl'}>Welcome! I&apos;m >/Raccoon/</Heading>
       <Heading size={isSmall ? 'xl' : '2xl'} color={'inherit'}>
-        A Software Engineer
+        An Aspiring Programmer
       </Heading>
 
       {/* Brief */}
@@ -59,12 +59,12 @@ export default function Home() {
 
         {/* Pronouns */}
         <Section p={'10px 20px'} alignItems={'center'} gap={'7px'} orbit>
-          <FaTag size={'15px'} /> She/Her
+          <FaTag size={'15px'} /> Øbscure.
         </Section>
 
-        {/* Personality */}
+        {/* Tag */}
         <Section p={'10px 20px'} alignItems={'center'} gap={'7px'} orbit>
-          <FaHeart size={'15px'} /> INTJ
+          <FaHeart size={'15px'} /> xNTP
         </Section>
       </Flex>
 
@@ -78,19 +78,14 @@ export default function Home() {
           fontWeight={'hairline'}
           opacity={'.8'}
         >
-          I&lsquo;m a self-taught fullstack programmer with a soft spot for Rust
-          and TypeScript. Love mangas, anime and other weirdo stuff. Also I like
-          to listen to breakcore while working. I dive into the playful world of
-          hardware hacking, cybersecurity, and MMORPGs while cuddling up to
-          open-source projects. With high experience in Twitch API and Minecraft
-          modding, let&lsquo;s make some magic happen! 🌟
+          I&lsquo;m an aspiring programmer with interests in Python, Rust, Go, C#, Kotlin and TypeScript. My hobbies are gaming, coffee, and Twitch. I also love to listen to hardwave/wave music while working or playing games. Late night enthusiast. ⸸
         </Text>
       </Section>
 
-      {/* Clients */}
+      {/* Socials */}
       <Flex flexDir={'column'} alignItems={'center'} gap={'20px'} mt={'70px'}>
         <Heading color={'inherit'} size={'lg'}>
-          My clients
+          My Socials
         </Heading>
 
         <AutoScroll>

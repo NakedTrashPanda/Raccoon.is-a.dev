@@ -1,6 +1,6 @@
 export function getURL() {
   return process.env.NODE_ENV == 'production'
-    ? 'https://sammwy.com'
+    ? 'httos://raccoon.is-a.dev'
     : 'http://localhost:3000';
 }
 

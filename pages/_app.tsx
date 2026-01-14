@@ -21,10 +21,10 @@ export default function App({ Component, pageProps }: AppProps) {
       <Script async src="/assets/vendor/oneko/oneko.js"></Script>
 
       <Head>
-        <title>/sammwy/ - ପ(๑•ᴗ•๑)ଓ ♡</title>
+        <title> >/Raccoon/ </title>
         <meta
           name="description"
-          content="≽^•⩊•^≼ ୧ ‧₊˚ 🍓 ⋅ ☆ ໒꒰ྀིっ˕ -｡꒱ྀི১ Nyan meow prr"
+          content="rawr xd"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/assets/favicon.webp" />

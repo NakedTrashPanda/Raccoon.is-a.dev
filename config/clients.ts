@@ -2,115 +2,32 @@ import { ClientCardProps } from '@/components/cards/client-card';
 
 const CLIENTS: ClientCardProps[] = [
   {
-    username: 'Eufonia Studio',
-    category: 'Company',
-    comment: 'Minecraft modding.',
-    avatar: '/assets/clients/eufonia.jpg',
-    link: 'https://x.com/eufoniastudio',
+    username: 'Øbscure.',
+    category: 'Spotify',
+    comment: '',
+    avatar: 'https://i.scdn.co/image/ab67757000003b826b0bdc73a4d8ee012fabb6d8',
+    link: 'https://open.spotify.com/user/tbnrfrost',
   },
-
   {
-    username: 'Rubius',
-    category: 'Streamer',
-    comment: 'Twitch integrations and minecraft modding.',
-    avatar: '/assets/clients/rubius.jpg',
-    link: 'https://twitch.tv/rubius',
+    username: 'trashpandas.',
+    category: 'Discord',
+    comment: '',
+    avatar: 'https://cdn.discordapp.com/avatars/197677394042028032/1edd2f67aec9008be4d9db82f5ca1ff7.webp?size=512',
+    link: 'https://discord.gg/vN4MHBV39',
   },
-
   {
-    username: 'Robleis',
-    category: 'Streamer',
-    comment: 'Twitch integrations and minecraft modding.',
-    avatar: '/assets/clients/robleis.png',
-    link: 'https://www.twitch.tv/robleis',
+    username: 'NakedTrashPanda',
+    category: 'GitHub',
+    comment: '',
+    avatar: 'https://avatars.githubusercontent.com/u/29274375?v=4',
+    link: 'https://www.github.com/NakedTrashPanda',
   },
-
   {
-    username: 'Carreraaa',
-    category: 'Streamer',
-    comment: 'Twitch integrations.',
-    avatar: '/assets/clients/carreraaa.png',
-    link: 'https://www.twitch.tv/carreraaa',
-  },
-
-  {
-    username: 'xCry',
-    category: 'Streamer',
-    comment: 'Twitch integrations and minecraft modding.',
-    avatar: '/assets/clients/xcry.png',
-    link: 'https://www.twitch.tv/xcry',
-  },
-
-  {
-    username: 'Staryuuki',
-    category: 'Streamer',
-    comment: 'Twitch integrations.',
-    avatar: '/assets/clients/staryuuki.png',
-    link: 'https://www.twitch.tv/staryuuki',
-  },
-
-  {
-    username: 'Spreen',
-    category: 'Streamer',
-    comment: 'Twitch integrations.',
-    avatar: '/assets/clients/spreen.png',
-    link: 'https://www.twitch.tv/elspreen',
-  },
-
-  {
-    username: 'Farfadox',
-    category: 'YouTuber/Streamer',
-    comment: 'Software development.',
-    avatar: '/assets/clients/farfadox.png',
-    link: 'https://www.twitch.tv/farfadoxvevo',
-  },
-
-  {
-    username: 'Lexosi',
-    category: 'Streamer',
-    comment: 'Twitch integrations.',
-    avatar: '/assets/clients/lexosi.jpeg',
-    link: 'https://www.twitch.tv/lexosi',
-  },
-
-  {
-    username: 'Soarinng',
-    category: 'Streamer',
-    comment: 'Minecraft modding.',
-    avatar: '/assets/clients/soarinng.png',
-    link: 'https://www.twitch.tv/soarinng',
-  },
-
-  {
-    username: 'Alexby11',
-    category: 'Streamer',
-    comment: 'Game server Management.',
-    avatar: '/assets/clients/alexby11.jpg',
-    link: 'https://www.twitch.tv/alexby11',
-  },
-
-  {
-    username: 'Pipepino',
-    category: 'YouTuber',
-    comment: 'Website development.',
-    avatar: '/assets/clients/pipepino.jpg',
-    link: 'https://www.youtube.com/c/pipepino',
-  },
-
-  {
-    username: 'Jota',
-    category: 'YouTuber',
-    comment: 'Website development.',
-    avatar: '/assets/clients/jota.jpg',
-    link: 'https://www.youtube.com/@Jota.',
-  },
-
-  {
-    username: 'FapParaMoar',
-    category: 'Streamer',
-    comment: 'Twitch integrations.',
-    avatar: '/assets/clients/fapparamoar.webp',
-    link: 'https://www.twitch.tv/fapparamoar',
+    username: 'RaccoonTentacles',
+    category: 'Twitch',
+    comment: '',
+    avatar: 'https://static-cdn.jtvnw.net/jtv_user_pictures/cb770964-b22d-446d-b0c6-bd321c5c70ad-profile_image-150x150.jpeg',
+    link: 'Twitch.tv/RaccoonTentacles',
   },
 ];
 
