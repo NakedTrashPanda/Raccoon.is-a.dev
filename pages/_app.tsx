@@ -21,7 +21,7 @@ export default function App({ Component, pageProps }: AppProps) {
       <Script async src="/assets/vendor/oneko/oneko.js"></Script>
 
       <Head>
-        <title> >/Raccoon/ </title>
+        <title>{`>/Raccoon/`}</title>
         <meta
           name="description"
           content="rawr xd"
